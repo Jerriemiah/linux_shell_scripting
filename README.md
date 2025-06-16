@@ -43,13 +43,22 @@ The script also includes **interactive features**, such as:
 Below is the complete script used for this project:
 
 **📜 Image: Complete Script**
-![Script](path/to/script-image.png)
+![Script1](screenshots/img1script1.png)
+![Script2](screenshots/img2script2.png)
 
 ---
 
 ## Running the Script
 To execute the script, ensure it has the necessary permissions:
 
-```bash
-chmod +x multiplication_table.sh
-./multiplication_table.sh
+
+    chmod +x multiplication_table.sh
+    ./multiplication_table.sh
+
+
+**📜 Image: Runnnig script**
+ Executed the script, demonstrated the different scenarios where the user performed full calculation, partial calculation, and error handling when the user entered an unexpected variable #
+
+![Full multiplication table](screenshots/img3runscript_full.png)
+![Partial multiplication table](screenshots/img4runscript_partial.png)
+![Errorhandling](screenshots/img4runscript_error_handling.png)
